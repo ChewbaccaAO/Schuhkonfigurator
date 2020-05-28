@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schuhkonfigurator", "Schuhkonfigurator\Schuhkonfigurator.csproj", "{CAAB5A86-D3FE-45AF-80A7-DC81A7D53449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAB5A86-D3FE-45AF-80A7-DC81A7D53449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAB5A86-D3FE-45AF-80A7-DC81A7D53449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAB5A86-D3FE-45AF-80A7-DC81A7D53449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAB5A86-D3FE-45AF-80A7-DC81A7D53449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45ED18D-4B74-4A77-8743-441D9E5ABE13}
+	EndGlobalSection
+EndGlobal
