@@ -12,6 +12,7 @@ namespace Schuhkonfigurator
 {
     public partial class Form1 : Form
     {
+        Boolean wa = true;
         public Form1()
         {
             InitializeComponent();
